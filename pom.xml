@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.abhishek468</groupId>
   <artifactId>serenityReportmod</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
  
 <name>librbary-retry</name>
@@ -87,7 +87,7 @@
 							<goal>sign</goal>
 						</goals>
 						<configuration>
-							<keyname>0x2365862B</keyname>
+							<keyname>0xD099B4B2</keyname>
 							<gpgArguments>
 								<arg>--pinentry-mode</arg>
 								<arg>loopback</arg>
